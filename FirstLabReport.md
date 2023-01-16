@@ -21,7 +21,10 @@ the future.
 
 * Pretty self-explanatory
 
-* You should see a snapshot like this
+* You should see a snapshot like this:
+
+![Image](VS Code Download.png)
+
 
 
 

@@ -25,6 +25,19 @@ the future.
 
 ![Image](VSCodeDownload.jpg)
 
+## Step 3
+### Try to connect to remote server which is dedicated specifically for your CSE 15L account
+
+* In above snapshot, click new file and follow the instructions
+
+* When new file is opened, go to the topmost bar and try to find terminal section
+
+* Terminal section has an option open new terminal which must be clicked
+
+* Write the following command: **ssh cs15lwi23zz@ieng6.ucsd.edu** but replace zz with the letters specific from your account
+ 
+## Step 4
+### 
 
 
 

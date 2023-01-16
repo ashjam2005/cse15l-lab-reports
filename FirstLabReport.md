@@ -23,7 +23,7 @@ the future.
 
 * You should see a snapshot like this:
 
-![Image](VS Code Download.jpg)
+![Image](VSCodeDownload.jpg)
 
 
 

@@ -34,10 +34,30 @@ the future.
 
 * Terminal section has an option open new terminal which must be clicked
 
-* Write the following command: **ssh cs15lwi23zz@ieng6.ucsd.edu** but replace zz with the letters specific from your account
+* Write the following command: "**ssh cs15lwi23zz@ieng6.ucsd.edu**" but replace zz with the letters specific from your account
+
+* There will be question asked "Are you sure you want to continue connecting?" which should be answered by a Yes
+
+* There will be a password asked (NOTE: if you don't see any dots on screen when typing, don't worry. Its part of protection of information protocol)
+
+* This is what must be seen when being able to successfully login
+
+![Image](RemoteServerAccess.jpg)
  
 ## Step 4
-### 
+### Try some sample commands
 
+Below are sample commands that you can try:
 
+* cd
+
+* pwd
+
+* ls 
+
+* cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
+
+Below is a snapshot where I have tried to implement some sample commands:
+
+![Image](SampleCommands.jpg)
 

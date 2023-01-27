@@ -27,7 +27,11 @@ the future.
 
 * The use of Visual Studio is for connecting your github code with Visual Studio code
 
-* This can be done through the clone repository button which you can see in the image above
+* This can be done through the clone github repository button which you can see in the image above
+
+* You will then be led to a page where you must enter the link of your github repository
+
+![Image](Repository Page.jpg)
 
 
 ## Step 3

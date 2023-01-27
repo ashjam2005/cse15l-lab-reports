@@ -57,9 +57,9 @@ the future.
 
 Below are sample commands that you can try:
 
-``` Sample commands to try in your VS code terminal
+``` 
 
-# 
+# Sample commands to try in your VS code terminal
 
 * cd -- changes working directory
 

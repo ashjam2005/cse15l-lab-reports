@@ -31,8 +31,7 @@ the future.
 
 * You will then be led to a page where you must enter the link of your github repository
 
-
-
+![Image](RepositoryPage.jpg)
 
 ## Step 3
 ### Try to connect to remote server which is dedicated specifically for your CSE 15L account
@@ -58,15 +57,27 @@ the future.
 
 Below are sample commands that you can try:
 
-* cd
+``` Sample commands to try in your VS code terminal
 
-* pwd
+# 
 
-* ls 
+* cd -- changes working directory
 
-* cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
+* pwd -- print working directory
+
+* ls -- Used to list files and folders of a given path
+
+* cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/ -- creates copy of files in directory to another location
+
+``` 
 
 Below is a snapshot where I have tried to implement some sample commands:
 
 ![Image](SampleCommands.jpg)
+
+* I mainly decided to focus on using pwd and cd commands since I was most curious of those commands
+
+* This was because a few days ago, I had done an exercise seeing the effect of merging working directory with relative path
+
+* The results were as expected. For example, when using pwd and then using cd to change working directory, things had worked out as expected
 

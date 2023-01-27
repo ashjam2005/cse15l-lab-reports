@@ -17,13 +17,18 @@ the future.
   [Link](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
   
 ## Step 2
-### Download Visual Code if you are using your own computer
+### Open Visual Studio (I was using the school computers) and understand why you are using it
 
-* Pretty self-explanatory
+* I decided to use the school computer instead of my own so I don't have much to add regarding visual studio code download
 
-* You should see a snapshot like this:
+* When you should open Visual Studio in the school computer, you must see a snapshot like this:
 
 ![Image](VSCodeDownload.jpg)
+
+* The use of Visual Studio is for connecting your github code with Visual Studio code
+
+* This can be done through the clone repository button which you can see in the image above
+
 
 ## Step 3
 ### Try to connect to remote server which is dedicated specifically for your CSE 15L account

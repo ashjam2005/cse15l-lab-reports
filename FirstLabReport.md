@@ -31,7 +31,7 @@ the future.
 
 * You will then be led to a page where you must enter the link of your github repository
 
-![Image](RepositoryPage.jpg)
+
 
 
 ## Step 3

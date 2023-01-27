@@ -49,7 +49,7 @@ the future.
 
 * There will be a password asked (NOTE: if you don't see any dots on screen when typing, don't worry. Its part of protection of information protocol)
 
-* This is what must be seen when being able to successfully login
+* This is what must be seen when being able to successfully login.
 
 ![Image](RemoteServerAccess.jpg)
  

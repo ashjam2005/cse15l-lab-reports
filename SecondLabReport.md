@@ -18,6 +18,12 @@ Another feature to note is that this program keeps note of all the strings print
   
   * As you can see from above, I had to try to check whether path of URL was valid and when affirmed I had to check whether the query had an "s" to ensure
     printing of word on the website
+  
+  * Below are two screenshots of implementation of "/add-message"
+  
+    ![Image](Screenshot1.png)
+    ![Image](Screenshot2.png)
+  
 
 ## Part 2
 ### Exploring JUnit

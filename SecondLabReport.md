@@ -22,7 +22,11 @@ Another feature to note is that this program keeps note of all the strings print
   * Below are two screenshots of implementation of "/add-message"
   
     ![Image](Screenshot1.png)
+  
+  
     ![Image](Screenshot2.png)
+  
+  * The only value that would change to ensure that website works as illustrated in the screenshot above is the query portion of the website
   
 
 ## Part 2

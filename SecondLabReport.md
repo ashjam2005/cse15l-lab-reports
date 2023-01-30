@@ -8,7 +8,8 @@ When you have the following path "/add-message?s=<string>", the webpage prints o
 Another feature to note is that this program keeps note of all the strings printed.
   
 * Below is the code block for my StringServer:
-  ![Image](Code.jpg)
+  ![Image](Code 1.jpg)
+  ![Image](Code 2.jpg)
   
   * When looking at the code used, I had to use the concept of different portions like path, query.
   

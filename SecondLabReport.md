@@ -84,8 +84,8 @@ Another feature to note is that this program keeps note of all the strings print
 * To expose this, I used multivariable arrays with both odd and even lengths
 * I amended the following stuff mentioned above and my code worked
                                   
- ## Part 3
-### Reflection about lab 2 and lab 3                                
+## Part 3
+### Reflections about lab 2 and lab 3                              
                                   
  * In lab 2, I did not have much of an idea about different parts of the URL. However, after doing lab 2, I understood what is a path, query and other parts of URL
   

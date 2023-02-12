@@ -121,11 +121,10 @@ Another feature to note is that this program keeps note of all the strings print
     } 
 ```
                                   
-* Below is an image which shows the message displayed in terminal due to incorrect implementation of reverseArray method
+* Below is an image which shows the message displayed in terminal due to incorrect implementation of reverseArray method 
+  (NOTICE: J-Unit tests have worked. I just used a different code editing software called IntelliJ.)
                                   
 ![Image](Exception.jpg)                              
-
-  
 
                                   
                                   
@@ -133,6 +132,19 @@ Another feature to note is that this program keeps note of all the strings print
 * The original code also forgot to use a temporary variable to store the value of original variable at a certain index
 * To expose this, I used multivariable arrays with both odd and even lengths
 * I amended the following stuff mentioned above and my code worked
+                                  
+                                    ```
+# Buggy code block
+ static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length / 2; i += 1) {
+      int temp = arr[i]
+      arr[i] = arr[arr.length - i - 1];
+      arr[arr.length - i - 1] = temp;
+    }
+  }
+```
+                                  
+                                  
                                   
 ## Part 3
 ### Reflections about lab 2 and lab 3                              

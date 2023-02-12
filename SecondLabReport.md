@@ -133,7 +133,11 @@ Another feature to note is that this program keeps note of all the strings print
 * To expose this, I used multivariable arrays with both odd and even lengths
 * I amended the following stuff mentioned above and my code worked
                                   
- 
+ ```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```
 
                                                                  
 ## Part 3

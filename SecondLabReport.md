@@ -135,19 +135,17 @@ Another feature to note is that this program keeps note of all the strings print
                                   
   ```
 # Amended Code block
-    static void reverseInPlace(int[] arr) {
-    for(int i = 0; i < arr.length; i += 1) {
+    static void reverseInPlace(int[] arr)
+   {
+    for(int i = 0; i < arr.length; i += 1) 
+      {
       int temp = arr[i];
       arr[i] = arr[arr.length - i - 1];
       arr[arr.length - i -1] = temp;
-    }
-  }
-  
+      }
+    }  
   ```
-                                  
-                                  
-                                  
-                                                                   
+                                                                 
 ## Part 3
 ### Reflections about lab 2 and lab 3                              
                                   

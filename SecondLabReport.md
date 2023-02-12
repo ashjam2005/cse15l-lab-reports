@@ -10,19 +10,57 @@ Another feature to note is that this program keeps note of all the strings print
 * Below is the code block for my StringServer:
   
   ![Image](Code1.png)
+  
   ![Image](webpagescreenshot.jpg)
   
   * When looking at the code used, I had to use the concept of different portions like path, query.
   
+  * In the second image, I first called the getPath() method which returns path of the URL . 
+  
+  * Since I was only interested in value of path at first, I used the getPath() method to get value of path of the URL
+  
+  * The only possible valid value of path was "/add-message" which explains the first if-method in the second image
+  
+  * After that, I used the split method to split the query of the URL (which I got thanks to the getQuery method) based on equals sign.  
+  
+  * I did a check to ensure the first part of query, before the equal sign, was an "s". 
+  
+  * In the first picture, I created a stringbuilder and arrayList to keep track of all the words added and print them out in a correct order
+  
   * As you can see from above, I had to try to check whether path of URL was valid and when affirmed I had to check whether the query had an "s" to ensure
-    printing of word on the website
+    printing of word on the website 
+  
+  * I called the String.Format() to print out all the words stored in stringbuilder onto the server 
   
   * Below are two screenshots of implementation of "/add-message"
   
     ![Image](Screenshot1.png)
   
+ 
+  * For the first implementation, a check was implemented for valid path "/add-message"
+  
+  * Then the query (portion after question mark) was split based on equal sign
+  
+  * If first part of query is an "s", then second part of query, which is the word inputted by user, is added to an ArrayList
+  
+  * Then this word is appended to a StrinBuilder and then is printed out on the website
+  
   
     ![Image](Screenshot2.png)
+  
+  * For the second implementation, a check was implemented for valid path "/add-message"
+  
+  * Then the query (portion after question mark) was split based on equal sign
+  
+  * If first part of query is an "s", then second part of query, which is the word inputted by user, is added to an ArrayList
+  
+  * Then the first word of arrayList is added to stringBuilder (stringbuilder has always been initialized after every new implementation)
+  
+  * Then a for-loop is executed which adds appends the words from arrayList to stringBuilder (before word is added, a new line is created)
+  
+  * Then history of all words passed to website is printed in the website
+  
+  
   
   * The only value that would change to ensure that website works as illustrated in the screenshot above is the query portion of the website
   

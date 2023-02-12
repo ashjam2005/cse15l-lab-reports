@@ -135,8 +135,11 @@ Another feature to note is that this program keeps note of all the strings print
                                   
  ```
 # code block
-print '3 backticks or'
-print 'indent 4 spaces'
+static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
 ```
 
                                                                  

@@ -10,7 +10,7 @@ Another feature to note is that this program keeps note of all the strings print
 * Below is the code block for my StringServer:
   
   ![Image](Code1.png)
-  ![Image](webpagescreenshot.png)
+  ![Image](webpagescreenshot.jpg)
   
   * When looking at the code used, I had to use the concept of different portions like path, query.
   

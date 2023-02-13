@@ -293,7 +293,7 @@ travel_guides/berlitz2
 ## Third type
 ### grep -n "some string" <name of .txt file>
    
-This is responsible for stating the line numbers where a certain string exists
+This is responsible for stating the line numbers where a certain string exists. Below are two examples illustrating the effect.
   
 ```
 # First code block

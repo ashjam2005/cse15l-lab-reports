@@ -21,7 +21,6 @@ This type of grep gives an output which shows all lines that have "some string" 
 # First code block example
 grep "WhatToDo" find-results.txt
 ```
-  
 This is the output you receive when trying to find the number of lines which have "WhatToDo" in the find-results.txt file.
   
 ```
@@ -54,12 +53,74 @@ travel_guides/berlitz2/Vallarta-WhatToDo.txt
 
   
   ```
-# code block
+# Second code block
 grep "History" find-results.txt
 ```
+  
 This is the output you receive when trying to find the number of files which are part of berlitz 1 in the find-results.txt file.
   
-![Second Output](Report3ImageTwo.jpg)
+```
+# Output
+travel_guides/berlitz1
+travel_guides/berlitz1/HandRHawaii.txt
+travel_guides/berlitz1/HandRHongKong.txt
+travel_guides/berlitz1/HandRIbiza.txt
+travel_guides/berlitz1/HandRIsrael.txt
+travel_guides/berlitz1/HandRIstanbul.txt
+travel_guides/berlitz1/HandRJamaica.txt
+travel_guides/berlitz1/HandRJerusalem.txt
+travel_guides/berlitz1/HandRLakeDistrict.txt
+travel_guides/berlitz1/HandRLasVegas.txt
+travel_guides/berlitz1/HandRLisbon.txt
+travel_guides/berlitz1/HandRLosAngeles.txt
+travel_guides/berlitz1/HandRMadeira.txt
+travel_guides/berlitz1/HandRMadrid.txt
+travel_guides/berlitz1/HandRMallorca.txt
+travel_guides/berlitz1/HistoryDublin.txt
+travel_guides/berlitz1/HistoryEdinburgh.txt
+travel_guides/berlitz1/HistoryEgypt.txt
+travel_guides/berlitz1/HistoryFrance.txt
+travel_guides/berlitz1/HistoryFWI.txt
+travel_guides/berlitz1/HistoryGreek.txt
+travel_guides/berlitz1/HistoryHawaii.txt
+travel_guides/berlitz1/HistoryHongKong.txt
+travel_guides/berlitz1/HistoryIbiza.txt
+travel_guides/berlitz1/HistoryIndia.txt
+travel_guides/berlitz1/HistoryIsrael.txt
+travel_guides/berlitz1/HistoryIstanbul.txt
+travel_guides/berlitz1/HistoryItaly.txt
+travel_guides/berlitz1/HistoryJamaica.txt
+travel_guides/berlitz1/HistoryJapan.txt
+travel_guides/berlitz1/HistoryJerusalem.txt
+travel_guides/berlitz1/HistoryLakeDistrict.txt
+travel_guides/berlitz1/HistoryLasVegas.txt
+travel_guides/berlitz1/HistoryMadeira.txt
+travel_guides/berlitz1/HistoryMadrid.txt
+travel_guides/berlitz1/HistoryMalaysia.txt
+travel_guides/berlitz1/HistoryMallorca.txt
+travel_guides/berlitz1/IntroDublin.txt
+travel_guides/berlitz1/IntroEdinburgh.txt
+travel_guides/berlitz1/IntroEgypt.txt
+travel_guides/berlitz1/IntroFrance.txt
+travel_guides/berlitz1/IntroFWI.txt
+travel_guides/berlitz1/IntroGreek.txt
+travel_guides/berlitz1/IntroHongKong.txt
+travel_guides/berlitz1/IntroIbiza.txt
+travel_guides/berlitz1/IntroIndia.txt
+travel_guides/berlitz1/IntroIsrael.txt
+travel_guides/berlitz1/IntroIstanbul.txt
+travel_guides/berlitz1/IntroItaly.txt
+travel_guides/berlitz1/IntroJamaica.txt
+travel_guides/berlitz1/IntroJapan.txt
+travel_guides/berlitz1/IntroJerusalem.txt
+travel_guides/berlitz1/IntroLakeDistrict.txt
+travel_guides/berlitz1/IntroLasVegas.txt
+travel_guides/berlitz1/IntroLosAngeles.txt
+travel_guides/berlitz1/WhereToMadeira.txt
+travel_guides/berlitz1/WhereToMadrid.txt
+travel_guides/berlitz1/WhereToMalaysia.txt
+travel_guides/berlitz1/WhereToMallorca.txt
+```
  
   
 ## Second type

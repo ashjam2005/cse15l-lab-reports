@@ -41,7 +41,6 @@ This is the output you receive when trying to find the number of files which are
   
 This type of grep command is responsible for finding the lines which do not contain a certain string. Below are two code examples and their respective outputs.
 
-(NOTE: This only gives a sample of output.)
   
   ```
 # code block
@@ -49,8 +48,16 @@ grep -v "WhereTo" find results-txt
 ```
 This is the output you receive when trying to find the number of files which do not have WhereTo in their path in the find-results.txt file.
   
-![Second Output](Report3ImageThree.jpg) 
+![Third Output](Report3ImageThree.jpg) 
   
+  ```
+# code block
+grep -v ".txt" find-results.txt
+```
+This is the output when trying to find the amount of non-".txt" files in find-results.txt file. 
+  
+  
+![Fourth Output](Report3ImageFour.jpg)
   
   
   

@@ -289,7 +289,24 @@ travel_guides
 travel_guides/berlitz1
 travel_guides/berlitz2
 ```
+ 
+## Third type
+### grep -n "some string" <name of .txt file>
+   
+This is responsible for stating the line numbers where a certain string exists
   
+```
+# First code block
+  grep -n "Poland" find-results.txt
+```
+ 
+Below is the output that is printed out when above code block is executed.
   
+```
+# Output
+  
+172:travel_guides/berlitz2/Poland-History.txt
+173:travel_guides/berlitz2/Poland-WhatToDo.txt
+```  
   
   

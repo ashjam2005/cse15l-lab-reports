@@ -136,6 +136,7 @@ grep -v "WhereTo" find results-txt
 This is the output you receive when trying to find the number of files which do not have WhereTo in their path in the find-results.txt file.
   
 ```
+# Output
 travel_guides
 travel_guides/berlitz1
 travel_guides/berlitz1/HandRHawaii.txt
@@ -277,13 +278,13 @@ travel_guides/berlitz2/Vallarta-WhatToDo.txt
 ```
   
   ```
-# code block
+# Second code block
 grep -v ".txt" find-results.txt
 ```
 This is the output when trying to find the amount of non-".txt" files in find-results.txt file. 
     
 ```
-# Second code block
+# Output
 travel_guides
 travel_guides/berlitz1
 travel_guides/berlitz2

@@ -24,7 +24,33 @@ grep "WhatToDo" find-results.txt
   
 This is the output you receive when trying to find the number of lines which have "WhatToDo" in the find-results.txt file.
   
-![First Output](Report3ImageOne.jpg)
+```
+  # Output
+travel_guides/berlitz2/Algarve-WhatToDo.txt
+travel_guides/berlitz2/Amsterdam-WhatToDo.txt
+travel_guides/berlitz2/Athens-WhatToDo.txt
+travel_guides/berlitz2/Bahamas-WhatToDo.txt
+travel_guides/berlitz2/Bali-WhatToDo.txt
+travel_guides/berlitz2/Barcelona-WhatToDo.txt
+travel_guides/berlitz2/Beijing-WhatToDo.txt
+travel_guides/berlitz2/Berlin-WhatToDo.txt
+travel_guides/berlitz2/Bermuda-WhatToDo.txt
+travel_guides/berlitz2/Budapest-WhatToDo.txt
+travel_guides/berlitz2/California-WhatToDo.txt
+travel_guides/berlitz2/CanaryIslands-WhatToDo.txt
+travel_guides/berlitz2/Cancun-WhatToDo.txt
+travel_guides/berlitz2/China-WhatToDo.txt
+travel_guides/berlitz2/Costa-WhatToDo.txt
+travel_guides/berlitz2/CostaBlanca-WhatToDo.txt
+travel_guides/berlitz2/Crete-WhatToDo.txt
+travel_guides/berlitz2/Cuba-WhatToDo.txt
+travel_guides/berlitz2/Nepal-WhatToDo.txt
+travel_guides/berlitz2/Paris-WhatToDo.txt
+travel_guides/berlitz2/Poland-WhatToDo.txt
+travel_guides/berlitz2/Portugal-WhatToDo.txt
+travel_guides/berlitz2/PuertoRico-WhatToDo.txt
+travel_guides/berlitz2/Vallarta-WhatToDo.txt
+```
 
   
   ```

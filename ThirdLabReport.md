@@ -307,6 +307,63 @@ Below is the output that is printed out when above code block is executed.
   
 172:travel_guides/berlitz2/Poland-History.txt
 173:travel_guides/berlitz2/Poland-WhatToDo.txt
-```  
+``` 
   
+ ```
+# Second code block
+  
+  grep -n "History" find-results.txt
+``` 
+  
+ Below is the output that is printed out when above code block is executed.
+  
+  ```  
+#Output
+17:travel_guides/berlitz1/HistoryDublin.txt
+18:travel_guides/berlitz1/HistoryEdinburgh.txt
+19:travel_guides/berlitz1/HistoryEgypt.txt
+20:travel_guides/berlitz1/HistoryFrance.txt
+21:travel_guides/berlitz1/HistoryFWI.txt
+22:travel_guides/berlitz1/HistoryGreek.txt
+23:travel_guides/berlitz1/HistoryHawaii.txt
+24:travel_guides/berlitz1/HistoryHongKong.txt
+25:travel_guides/berlitz1/HistoryIbiza.txt
+26:travel_guides/berlitz1/HistoryIndia.txt
+27:travel_guides/berlitz1/HistoryIsrael.txt
+28:travel_guides/berlitz1/HistoryIstanbul.txt
+29:travel_guides/berlitz1/HistoryItaly.txt
+30:travel_guides/berlitz1/HistoryJamaica.txt
+31:travel_guides/berlitz1/HistoryJapan.txt
+32:travel_guides/berlitz1/HistoryJerusalem.txt
+33:travel_guides/berlitz1/HistoryLakeDistrict.txt
+34:travel_guides/berlitz1/HistoryLasVegas.txt
+35:travel_guides/berlitz1/HistoryMadeira.txt
+36:travel_guides/berlitz1/HistoryMadrid.txt
+37:travel_guides/berlitz1/HistoryMalaysia.txt
+38:travel_guides/berlitz1/HistoryMallorca.txt
+105:travel_guides/berlitz2/Algarve-History.txt
+109:travel_guides/berlitz2/Amsterdam-History.txt
+113:travel_guides/berlitz2/Athens-History.txt
+117:travel_guides/berlitz2/Bahamas-History.txt
+121:travel_guides/berlitz2/Bali-History.txt
+124:travel_guides/berlitz2/Barcelona-History.txt
+127:travel_guides/berlitz2/Beijing-History.txt
+130:travel_guides/berlitz2/Berlin-History.txt
+137:travel_guides/berlitz2/Budapest-History.txt
+140:travel_guides/berlitz2/California-History.txt
+143:travel_guides/berlitz2/Canada-History.txt
+145:travel_guides/berlitz2/CanaryIslands-History.txt
+148:travel_guides/berlitz2/Cancun-History.txt
+151:travel_guides/berlitz2/China-History.txt
+154:travel_guides/berlitz2/Costa-History.txt
+157:travel_guides/berlitz2/CostaBlanca-History.txt
+159:travel_guides/berlitz2/Crete-History.txt
+163:travel_guides/berlitz2/Cuba-History.txt
+166:travel_guides/berlitz2/Nepal-History.txt
+169:travel_guides/berlitz2/NewOrleans-History.txt
+172:travel_guides/berlitz2/Poland-History.txt
+174:travel_guides/berlitz2/Portugal-History.txt
+177:travel_guides/berlitz2/PuertoRico-History.txt
+180:travel_guides/berlitz2/Vallarta-History.txt
+```
   

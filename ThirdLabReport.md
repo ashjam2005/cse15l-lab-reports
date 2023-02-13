@@ -51,6 +51,7 @@ travel_guides/berlitz2/PuertoRico-WhatToDo.txt
 travel_guides/berlitz2/Vallarta-WhatToDo.txt
 ```
 
+Below is second example.
   
   ```
 # Second code block
@@ -277,6 +278,8 @@ travel_guides/berlitz2/Vallarta-WhatToDo.txt
     
 ```
   
+Below is second code example.
+  
   ```
 # Second code block
 grep -v ".txt" find-results.txt
@@ -308,6 +311,8 @@ Below is the output that is printed out when above code block is executed.
 172:travel_guides/berlitz2/Poland-History.txt
 173:travel_guides/berlitz2/Poland-WhatToDo.txt
 ``` 
+  
+Below is second code example.
   
  ```
 # Second code block

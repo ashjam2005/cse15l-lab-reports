@@ -371,4 +371,34 @@ Below is second code example.
 177:travel_guides/berlitz2/PuertoRico-History.txt
 180:travel_guides/berlitz2/Vallarta-History.txt
 ```
+
+## Fourth type
+### grep -c <name of .txt file>
+
+This is responsible for stating the number of times a string appears in a text file. Below are two examples illustrating the effect.
   
+  
+```
+# First code block (Responsible for returning number of .txt extensions in find-result.txt file)
+grep -c ".txt" find-results.txt
+```
+  
+ Below is the output. 
+  ```
+# Output
+179
+```
+  
+ Below is the second code example. 
+  
+  ```
+# Second code block
+grep -c "History" find-results.txt
+```
+  
+ Below is the output. 
+  
+  ```
+# code block
+46
+```

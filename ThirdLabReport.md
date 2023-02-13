@@ -31,5 +31,27 @@ This is the output you receive when trying to find the number of lines which hav
 # code block
 grep "History" find-results.txt
 ```
+This is the output you receive when trying to find the number of files which are part of berlitz 1 in the find-results.txt file.
   
 ![Second Output](Report3ImageTwo.jpg)
+ 
+  
+## Second type
+### grep -v "some string" <name of .txt file>
+  
+This type of grep command is responsible for finding the lines which do not contain a certain string. Below are two code examples and their respective outputs.
+
+(NOTE: This only gives a sample of output.)
+  
+  ```
+# code block
+grep -v "WhereTo" find results-txt
+```
+This is the output you receive when trying to find the number of files which do not have WhereTo in their path in the find-results.txt file.
+  
+![Second Output](Report3ImageThree.jpg) 
+  
+  
+  
+  
+  

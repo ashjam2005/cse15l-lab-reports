@@ -31,3 +31,5 @@ This is the output you receive when trying to find the number of lines which hav
 # code block
 grep "History" find-results.txt
 ```
+  
+![Second Output](Report3ImageTwo.jpg)

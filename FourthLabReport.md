@@ -69,12 +69,13 @@ These were the steps followed:
   
   * Type `nano' and type L and then press `tab`
   
-  * Press `enter`
+  * Press `enter`and you see below
   
   * Edit the code to include case where two letters being compared are the same and in the last while block replace index1 with index2
   
-  * Press `Ctrl-O` to save and then `Ctrl-X` to exit
+  * Press `Ctrl-X` to exit and when prompted as to whether you want intended modifications to be saved type Y and then press `enter`
   
+  ![Image](Report4ImageFour.jpg)
   
  ## Step 8 (Run the tests and ensure tests succeed)
   
@@ -84,6 +85,10 @@ These were the steps followed:
   
   * Keep pressing the `up` key until you find j-unit execution line and press `enter` (no need to delete last word since you have already executed this
   command before)
+  
+  
+  ![Image](Report4ImageFive.jpg)
+  
   
   ## Step 9 (Push changes)
   

@@ -60,8 +60,25 @@ These were the steps followed:
   
   * Press `enter`
   
-  * 
+  * Edit the code to include case where two letters being compared are the same and in the last while block replace index1 with index2
   
+  * Press `Ctrl-O` to save and then `Ctrl-X` to exit
+  
+  
+ ## Step 8 (Run the tests and ensure tests succeed)
+  
+  Do the following steps:
+  
+  * Keep pressing the `up` key until you find j-unit compilation line and press `enter`
+  
+  * Keep pressing the `up` key until you find j-unit execution line and press `enter` (no need to delete last word since you have already executed this
+  command before)
+  
+  ## Step 9 (Push changes)
+  
+  Do the following steps
+  
+  * Type `git add ListExamples.java` and then type `git commit -m "updated"`
  
   
 

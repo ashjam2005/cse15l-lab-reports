@@ -125,7 +125,7 @@ travel_guides/berlitz1/WhereToMallorca.txt
  
   
 ## Second type
-### grep -v "some string" <name of .txt file>
+### -v
   
 This type of grep command is responsible for finding the lines which do not contain a certain string. Below are two code examples and their respective outputs.
 
@@ -294,7 +294,7 @@ travel_guides/berlitz2
 ```
  
 ## Third type
-### grep -n "some string" <name of .txt file>
+### -n
    
 This is responsible for stating the line numbers where a certain string exists. Below are two examples illustrating the effect.
   
@@ -373,7 +373,7 @@ Below is second code example.
 ```
 
 ## Fourth type
-### grep -c <name of .txt file>
+### -c
 
 This is responsible for stating the number of times a string appears in a text file. Below are two examples illustrating the effect.
   

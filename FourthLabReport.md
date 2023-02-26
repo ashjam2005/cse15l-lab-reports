@@ -42,6 +42,10 @@ These were the steps followed:
   * Type in terminal: `git clone <link of forked repo>`
   
   * Then press `enter`
+  
+  
+  
+  ![Image](Report4ImageTwo.jpg)
 
 ## Step 6 (Run the tests and show one of the tests is failing)
   
@@ -54,6 +58,10 @@ These were the steps followed:
   * Before pressing `enter`, press `ctrl-W` and just type T and then press `tab`
   
   * Then press `enter`
+  
+  ![Image](Report4ImageThree.jpg)
+
+  
  
 ## Step 7 (Amend the bug)
   

@@ -30,7 +30,7 @@ These were the steps followed:
 * Now you are logged in with no need to type password
   
   
-  ![Image][Report4ImageOne.jpg]
+  ![Image](Report4ImageOne.jpg)
 
 ## Step 5 (Clone the git repository) 
   

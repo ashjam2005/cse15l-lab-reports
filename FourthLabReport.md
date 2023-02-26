@@ -48,6 +48,25 @@ These were the steps followed:
   
   * Then copy the entire code for running J-UNIT tests and then right click in terminal
   
-  * Before pressing `enter`, remove last word and just type T and then press `tab`
+  * Before pressing `enter`, press `ctrl-W` and just type T and then press `tab`
   
   * Then press `enter`
+ 
+## Step 7 (Amend the bug)
+  
+  These were steps followed:
+  
+  * Type `nano' and type L and then press `tab`
+  
+  * Press `enter`
+  
+  * 
+  
+ 
+  
+
+  
+  
+ 
+  
+  

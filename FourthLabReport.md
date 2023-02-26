@@ -13,19 +13,19 @@ These were the steps followed:
 
 * In local terminal, type *ssh-keygen*
 
-* Keep pressing <enter> until computer tells you where public key been saved
+* Keep pressing `enter` until computer tells you where public key been saved
   
 * Type *ssh cs15lwi23___@ieng6.ucsd.edu* and press <enter>
   
-* Type *mkdir ssh* and press <enter>
+* Type *mkdir ssh* and press `enter`
   
-* Type exit and then press <enter>
+* Type exit and then press `enter`
   
 * Highlight path where public key has been saved and right click 
   
-* Type following statement: scp <path to your public SSH key> cs15lwi23__@ieng6.ucsd.edu:~/.ssh/authorized_keys and press <enter>
+* Type following statement: `scp <path to your public SSH key> cs15lwi23__@ieng6.ucsd.edu:~/.ssh/authorized_keys` and press `enter`
   
-* Press <up> 4 times (assuming this is the first time you are attempting to do these steps) and then press <enter>
+* Press `up` 4 times (assuming this is the first time you are attempting to do these steps) and then press `enter`
   
 * Now you are logged in with no need to type password
 
@@ -36,9 +36,9 @@ These were the steps followed:
   
   * Go to github repository and find link to be copied
   
-  * Type in terminal: git clone ______ (The link)
+  * Type in terminal: `git clone <link of forked repo>`
   
-  * Then press enter
+  * Then press `enter`
 
 ## Step 6 (Run the tests and show one of the tests is failing)
   
@@ -48,6 +48,6 @@ These were the steps followed:
   
   * Then copy the entire code for running J-UNIT tests and then right click in terminal
   
-  * Before pressing <enter>, remove last word and just type T and then press <tab>
+  * Before pressing `enter`, remove last word and just type T and then press `tab`
   
-  * Then press <enter>
+  * Then press `enter`

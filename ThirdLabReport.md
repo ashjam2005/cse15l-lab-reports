@@ -55,28 +55,13 @@ Below is second example.
   
   ```
 # Second code block
-grep "History" find-results.txt
+grep -i "History" find-results.txt
 ```
   
-This is the output you receive when trying to find the number of files which are part of berlitz 1 in the find-results.txt file.
+This is the output you receive when trying to find the lines which just contain History (case insensitive).
   
 ```
 # Output
-travel_guides/berlitz1
-travel_guides/berlitz1/HandRHawaii.txt
-travel_guides/berlitz1/HandRHongKong.txt
-travel_guides/berlitz1/HandRIbiza.txt
-travel_guides/berlitz1/HandRIsrael.txt
-travel_guides/berlitz1/HandRIstanbul.txt
-travel_guides/berlitz1/HandRJamaica.txt
-travel_guides/berlitz1/HandRJerusalem.txt
-travel_guides/berlitz1/HandRLakeDistrict.txt
-travel_guides/berlitz1/HandRLasVegas.txt
-travel_guides/berlitz1/HandRLisbon.txt
-travel_guides/berlitz1/HandRLosAngeles.txt
-travel_guides/berlitz1/HandRMadeira.txt
-travel_guides/berlitz1/HandRMadrid.txt
-travel_guides/berlitz1/HandRMallorca.txt
 travel_guides/berlitz1/HistoryDublin.txt
 travel_guides/berlitz1/HistoryEdinburgh.txt
 travel_guides/berlitz1/HistoryEgypt.txt
@@ -99,28 +84,31 @@ travel_guides/berlitz1/HistoryMadeira.txt
 travel_guides/berlitz1/HistoryMadrid.txt
 travel_guides/berlitz1/HistoryMalaysia.txt
 travel_guides/berlitz1/HistoryMallorca.txt
-travel_guides/berlitz1/IntroDublin.txt
-travel_guides/berlitz1/IntroEdinburgh.txt
-travel_guides/berlitz1/IntroEgypt.txt
-travel_guides/berlitz1/IntroFrance.txt
-travel_guides/berlitz1/IntroFWI.txt
-travel_guides/berlitz1/IntroGreek.txt
-travel_guides/berlitz1/IntroHongKong.txt
-travel_guides/berlitz1/IntroIbiza.txt
-travel_guides/berlitz1/IntroIndia.txt
-travel_guides/berlitz1/IntroIsrael.txt
-travel_guides/berlitz1/IntroIstanbul.txt
-travel_guides/berlitz1/IntroItaly.txt
-travel_guides/berlitz1/IntroJamaica.txt
-travel_guides/berlitz1/IntroJapan.txt
-travel_guides/berlitz1/IntroJerusalem.txt
-travel_guides/berlitz1/IntroLakeDistrict.txt
-travel_guides/berlitz1/IntroLasVegas.txt
-travel_guides/berlitz1/IntroLosAngeles.txt
-travel_guides/berlitz1/WhereToMadeira.txt
-travel_guides/berlitz1/WhereToMadrid.txt
-travel_guides/berlitz1/WhereToMalaysia.txt
-travel_guides/berlitz1/WhereToMallorca.txt
+travel_guides/berlitz2/Algarve-History.txt
+travel_guides/berlitz2/Amsterdam-History.txt
+travel_guides/berlitz2/Athens-History.txt
+travel_guides/berlitz2/Bahamas-History.txt
+travel_guides/berlitz2/Bali-History.txt
+travel_guides/berlitz2/Barcelona-History.txt
+travel_guides/berlitz2/Beijing-History.txt
+travel_guides/berlitz2/Berlin-History.txt
+travel_guides/berlitz2/Bermuda-history.txt
+travel_guides/berlitz2/Budapest-History.txt
+travel_guides/berlitz2/California-History.txt
+travel_guides/berlitz2/Canada-History.txt
+travel_guides/berlitz2/CanaryIslands-History.txt
+travel_guides/berlitz2/Cancun-History.txt
+travel_guides/berlitz2/China-History.txt
+travel_guides/berlitz2/Costa-History.txt
+travel_guides/berlitz2/CostaBlanca-History.txt
+travel_guides/berlitz2/Crete-History.txt
+travel_guides/berlitz2/Cuba-History.txt
+travel_guides/berlitz2/Nepal-History.txt
+travel_guides/berlitz2/NewOrleans-History.txt
+travel_guides/berlitz2/Poland-History.txt
+travel_guides/berlitz2/Portugal-History.txt
+travel_guides/berlitz2/PuertoRico-History.txt
+travel_guides/berlitz2/Vallarta-History.txt
 ```
  
   

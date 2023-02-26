@@ -45,3 +45,9 @@ These were the steps followed:
   These were steps followed:
   
   * Go to week 2 of lab and copy the entire sentence for compiling J-UNIT and press <enter>
+  
+  * Then copy the entire code for running J-UNIT tests and then right click in terminal
+  
+  * Before pressing <enter>, remove last word and just type T and then press <tab>
+  
+  * Then press <enter>

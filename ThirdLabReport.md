@@ -2,7 +2,7 @@
 
 In this lab, I am going to be reporting my findings on research on the grep command. There are 4 possible variations of the grep command: 
 
-* grep "some string" <name of .txt file>
+* -i (Trying to find where string exist in a particular file, just like default implementation. Only difference is case insensitivity.)
   
 * -v (Trying to find the lines which do not have a certain string)
   
@@ -12,14 +12,14 @@ In this lab, I am going to be reporting my findings on research on the grep comm
   
   
 ## First type
-### grep "some string" <name of .txt file>
+### -i
   
   
-This type of grep gives an output which shows all lines that have "some string" word in the line. Below are two examples.
+This type of grep gives an output which shows all lines that have "some string" word in the line (case insensitive). Below are two examples.
   
   ```
 # First code block example
-grep "WhatToDo" find-results.txt
+grep -i "WhatToDo" find-results.txt
 ```
 This is the output you receive when trying to find the number of lines which have "WhatToDo" in the find-results.txt file.
   

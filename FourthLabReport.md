@@ -96,7 +96,7 @@ These were the steps followed:
   
   * Type `git add ListExamples.java` and then type `git commit -m "updated"`
  
-  
+  ![Image](Report4ImageSix.jpg)
 
   
   

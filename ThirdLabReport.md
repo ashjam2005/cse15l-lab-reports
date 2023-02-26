@@ -4,11 +4,11 @@ In this lab, I am going to be reporting my findings on research on the grep comm
 
 * grep "some string" <name of .txt file>
   
-* grep -v <name of .txt file>
+* -v (Trying to find the lines which do not have a certain string)
   
-* grep -n <name of .txt file>
+* -n (Trying to find line numbers which contain a certain string)
   
-* grep -c <name of .txt file>
+* -c (Trying to find number of occurences of a certain string in a .txt file)
   
   
 ## First type

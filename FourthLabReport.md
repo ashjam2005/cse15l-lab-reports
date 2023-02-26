@@ -77,7 +77,7 @@ These were the steps followed:
   
   ![Image](Report4ImageFour.jpg)
   
- ## Step 8 (Run the tests and ensure tests succeed)
+ # Step 8 (Run the tests and ensure tests succeed)
   
   Do the following steps:
   

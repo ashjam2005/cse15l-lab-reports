@@ -28,6 +28,9 @@ These were the steps followed:
 * Press `up` 4 times (assuming this is the first time you are attempting to do these steps) and then press `enter`
   
 * Now you are logged in with no need to type password
+  
+  
+  ![Image][Report4ImageOne.jpg]
 
 ## Step 5 (Clone the git repository) 
   

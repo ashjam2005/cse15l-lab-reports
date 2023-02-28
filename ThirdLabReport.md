@@ -1,5 +1,7 @@
 # CSE 15L (Third Lab report)
 
+Citation: [Link](https://www.youtube.com/watch?v=Tc_jntovCM0&t=526s)
+
 In this lab, I am going to be reporting my findings on research on the grep command. There are 4 possible variations of the grep command: 
 
 * -i (Trying to find where string exist in a particular file, just like default implementation. Only difference is case insensitivity.)

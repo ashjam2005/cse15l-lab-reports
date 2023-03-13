@@ -1,5 +1,5 @@
 # CSE 15L (Fifth Lab report)
-Citation: Link
+Citation: [Link](https://www.softwaretestinghelp.com/ls-command-in-unix/#:~:text=The%20ls%20command%20supports%20the%20following%20options%3A&text=ls%20%2DR%3A%20list%20all%20files,but%20without%20the%20group%20name.)
 
 In this lab, I am going to be reporting my findings on research on the ls command. There are 4 possible variations of the grep command:
 
